@@ -7,8 +7,8 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94753721749'] //ur owner number
+global.ownername = "Mr rasiya bot" //ur owner name
 
 //Bot Name 
 global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
@@ -39,10 +39,10 @@ global.AUTO_BIO = false
 global.INBOX_BLOCK = false
 
 //Inbox Block MSG
-global.INBOX_BLOCK_MSG = 'blockedd'
+global.INBOX_BLOCK_MSG = 'false'
 
 //Anti Bad word
-global.ANTI_BADWORD = 'true'
+global.ANTI_BADWORD = 'false'
 
 
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
